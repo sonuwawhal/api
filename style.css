@@ -1,0 +1,31 @@
+.card{
+    /* width:300px; */
+    /* height:fit-content; */
+    /* background-color: peachpuff; */
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    gap:15px;
+}
+h1{
+    color:crimson;
+}
+.card1{
+    width:300px;
+    height:max-content;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 5px;
+    border-radius: 10px;
+   
+}
+.card1:hover{
+    width:300px;
+    height:max-content;
+    background-color: rgb(222, 222, 222);
+    padding: 10px 5px;
+    border-radius: 10px;
+   
+}
